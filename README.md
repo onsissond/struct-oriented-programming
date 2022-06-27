@@ -80,6 +80,3 @@ More about it:
 # Resources
 - [Stop Using Protocols!](https://riccardocipolleschi.medium.com/stop-using-protocols-cd63744a3261)
 - [What is it Pullback?](https://www.pointfree.co/blog/posts/22-some-news-about-contramap)
-
-# QRCode for this repository
-<img src="Resources/QRCode.png" width="350">
