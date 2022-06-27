@@ -50,7 +50,7 @@ extension Animator where Target == UIView {
                 delay: params.delay,
                 options: params.options,
                 animations: { view.alpha = 0.0 },
-                completion: { completion?($0) }
+                completion: completion
             )
         }
     }
