@@ -27,7 +27,7 @@ struct FadeInAnimator: AnimatorProtocol {
             delay: 0,
             options: [],
             animations: { target.alpha = 0.0 },
-            completion: { completion?($0) }
+            completion: completion
         )
     }
 }
